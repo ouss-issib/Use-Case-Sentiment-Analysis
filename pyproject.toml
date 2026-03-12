@@ -8,6 +8,7 @@ dependencies = [
     "datasets>=4.7.0",
     "ipykernel>=7.2.0",
     "langchain>=1.2.12",
+    "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.11",
     "matplotlib>=3.10.8",
     "python-dotenv>=1.2.2",
