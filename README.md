@@ -48,7 +48,7 @@ Le notebook principal contient toute la logique de test des prompts :
 ### 1. Initialisation du projet
 ```bash
 # Entrer dans le répertoire
-cd RAG-MULTIMODAL-EXPLO...
+cd Use-Case-Sentiment-Analysis
 
 # Créer et activer l'environnement virtuel avec UV
 uv venv
